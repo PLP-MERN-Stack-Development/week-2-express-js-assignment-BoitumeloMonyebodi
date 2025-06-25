@@ -46,7 +46,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/express-product-api.git
+git clone https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-BoitumeloMonyebodi.git
 cd express-product-api
 Install dependencies
 
